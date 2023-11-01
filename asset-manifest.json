@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopping_cart.github.io/static/css/main.33c279bd.css",
+    "main.js": "/shopping_cart.github.io/static/js/main.96c0fc59.js",
+    "index.html": "/shopping_cart.github.io/index.html",
+    "main.33c279bd.css.map": "/shopping_cart.github.io/static/css/main.33c279bd.css.map",
+    "main.96c0fc59.js.map": "/shopping_cart.github.io/static/js/main.96c0fc59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33c279bd.css",
+    "static/js/main.96c0fc59.js"
+  ]
+}
